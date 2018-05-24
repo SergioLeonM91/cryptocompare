@@ -1,0 +1,44 @@
+/* --------------------------- MESSAGES --------------------------- */
+.message
+{
+  background: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid #d2d6de;
+  border-left: 3px solid #d2d6de;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.message p{margin: 5px 0px 0px 0px;}
+.messageError
+{
+  background: #F2DEDE;
+  border-color: #DA8282;
+  color: #A94442;
+}
+.messageSuccess
+{
+  background: #DFF0D8;
+  border-color: #AED59E;
+  color: #3C763D;
+}
+.messageInfo
+{
+  background: #D9EDF7;
+  border-color: #A0C3D5;
+  color: #3170A6;
+}
+.messageWarning
+{
+  background: #FCF8E3;
+  border-color: #D9CB84;
+  color: #976D3B;
+}
+.btn2
+{
+  background: #BC4031;
+  border-radius: 3px;
+  padding: 2px 4px;
+  font-size: 75%;
+  color: #fff;
+  font-weight: bold;
+}
